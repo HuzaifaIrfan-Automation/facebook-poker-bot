@@ -1,16 +1,20 @@
-# facebook-poker-bot
+# Facebook Poker Bot
+**`Facebook Auto Poke all friends and pokeback`**
+
+## 🎬 Demo
+
+[▶️![Demo](https://img.youtube.com/vi/UO2QiteV10c/maxresdefault.jpg)](https://www.youtube.com/watch?v=UO2QiteV10c)
 
 
-## 🎬 Demo Video
+# 📝 Documentation
 
-[![Demo](https://img.youtube.com/vi/UO2QiteV10c/0.jpg)](https://www.youtube.com/watch?v=UO2QiteV10c)
+# 📚 References
 
 
 # 🤝🏻 Connect with Me
 
-[![GitHub ](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![GitHub](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
-[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
 
 # 📜 License
 
